@@ -1,6 +1,6 @@
 # Project PHP CRUD Operations
 
-## Horizontal Rules
+---
 
 A web application for performing CRUD (Create, Read, Update, Delete) operations, built with PHP, MySQL, JavaScript, jQuery, Bootstrap, and Ajax. This project provides a user-friendly interface for managing data seamlessly.
 
