@@ -12,7 +12,7 @@ A web application for performing CRUD (Create, Read, Update, Delete) operations,
 + Modern Web Technologies: Built with PHP for server-side logic, MySQL for database management, and incorporates JavaScript and jQuery for dynamic client-side interactions.
 
 ## Requirements
-+ PHP 7.x: Server-side scripting language.
++ PHP 8.1: Server-side scripting language.
 + MySQL: Database management system.
 + Web Server: Apache web server.
 
@@ -21,10 +21,11 @@ A web application for performing CRUD (Create, Read, Update, Delete) operations,
 1. Clone the Repository:
 
 `git clone https://github.com/salma-jahan-sahara/PHP-CRUD.git`
-`cd PHP-XRUD`
+
+`cd PHP-CRUD`
 
 2. Configure Database:
-+ Open connect.php and update the database connection details.
++ Import `crud.sql` to database and configure `connect.php`.
 
 3. Run the Application:
 + Open the project in your web browser.
@@ -35,6 +36,6 @@ A web application for performing CRUD (Create, Read, Update, Delete) operations,
 
 ## Live Demo: 
 
-+ By following this link http://salmajahansahara.atwebpages.com/php-crud/ you can see the project live 
++ By following this link salmajahansahara.atwebpages.com/php-crud you can see the project live 
 
 
