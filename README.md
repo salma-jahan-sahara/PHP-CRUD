@@ -36,6 +36,6 @@ A web application for performing CRUD (Create, Read, Update, Delete) operations,
 
 ## Live Demo: 
 
-+ By following this link salmajahansahara.atwebpages.com/php-crud you can see the project live 
++ By following this link http://salmajahansahara.atwebpages.com/php-crud you can see the project live 
 
 
